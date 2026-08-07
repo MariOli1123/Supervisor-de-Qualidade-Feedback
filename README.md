@@ -43,8 +43,7 @@ Fluxo de trabalho (*workflow*) automatizado em **n8n** focado no monitoramento c
 
 ### 📸 Demonstração Visual
 
-![Fluxo no n8n](link-da-sua-imagem-do-fluxo.png)
-*(Recomendado: Adicione um print do mapa do seu fluxo no n8n aqui)*
+![Fluxo no n8n]([link-da-sua-imagem-do-fluxo.png](https://github.com/MariOli1123/Supervisor-de-Qualidade-Feedback/blob/main/Supervisor%20de%20Qualidade%20&%20Feedback%20para%20Consultorias.png?raw=true))
 
 ---
 
